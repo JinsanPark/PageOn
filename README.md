@@ -33,7 +33,7 @@
 
 ## 🛠️ 3. 사용 기술
 
-* **Backend:** Java, Spring Boot, Spring Security, MyBatis, API
+<img alt="Java" src="https://raw.githubusercontent.com/selinakk/PageOn/18f08a2c8b9b0e908568bbd6bae120fef16cc134/src/main/resources/static/img/badge_java.svg"/><img alt="Spring Boot" src="https://raw.githubusercontent.com/selinakk/PageOn/18f08a2c8b9b0e908568bbd6bae120fef16cc134/src/main/resources/static/img/badge_springb.svg"/><img alt="MySQL" src="https://raw.githubusercontent.com/selinakk/PageOn/18f08a2c8b9b0e908568bbd6bae120fef16cc134/src/main/resources/static/img/badge_mysql.svg"/><img alt="MyBatis" src="https://raw.githubusercontent.com/selinakk/PageOn/ce18b96427488420bba1de1aabf585d334053b5e/src/main/resources/static/img/badge_mybatis.svg"/><img alt="Javascript" src="https://raw.githubusercontent.com/selinakk/PageOn/18f08a2c8b9b0e908568bbd6bae120fef16cc134/src/main/resources/static/img/badge_js.svg"/><img alt="Thymeleaf" src="https://raw.githubusercontent.com/selinakk/PageOn/18f08a2c8b9b0e908568bbd6bae120fef16cc134/src/main/resources/static/img/badge_thyme.svg"/><img alt="CSS3" src="https://raw.githubusercontent.com/selinakk/PageOn/18f08a2c8b9b0e908568bbd6bae120fef16cc134/src/main/resources/static/img/badge_css.svg"/><img alt="Git" src="https://raw.githubusercontent.com/selinakk/PageOn/18f08a2c8b9b0e908568bbd6bae120fef16cc134/src/main/resources/static/img/badge_git.svg"/>
 
 <br>
 
