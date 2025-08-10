@@ -33,7 +33,7 @@
 
 ## 🛠️ 3. 사용 기술
 
-* **Backend:** Java, Spring Boot, Spring Security, JPA, REST API
+* **Backend:** Java, Spring Boot, Spring Security, MyBatis, REST API
 * **Database:** Oracle, MySQL, MongoDB
 * **Infra & Tools:** Git, Network Fundamentals
 * **Frontend:** JavaScript, HTML, CSS, Thymeleaf
