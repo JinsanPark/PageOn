@@ -9,10 +9,10 @@
 
 ## 📌 1. 프로젝트 개요
 
-* **프로젝트 설명:** 외부 API(Aladin, Naver Webtoon)와 연동하여 웹소설, 웹툰, 도서를 리뷰하고 추천하는 웹 기반 커뮤니티 서비스입니다.
+* **프로젝트 설명:** 외부 API(만화규장각 Open API)와 연동하여 웹소설, 웹툰, 도서를 리뷰하고 추천하는 웹 기반 커뮤니티 서비스입니다.
 * **개발 기간:** 2024.09.30 ~ 2024.11.12
 * **주요 성과:** 멀티캠퍼스 주관 프로젝트 경연 '우수상' 수상
-* **팀 구성:** 백엔드 3명, 프론트엔드 2명 (총 5명)
+* **팀 구성:** 총 6명
 * **원본 저장소:** [팀 프로젝트 원본 GitHub 링크를 여기에 넣어주세요]
 
 <br>
@@ -33,10 +33,7 @@
 
 ## 🛠️ 3. 사용 기술
 
-* **Backend:** Java, Spring Boot, Spring Security, MyBatis, REST API
-* **Database:** Oracle, MySQL, MongoDB
-* **Infra & Tools:** Git, Network Fundamentals
-* **Frontend:** JavaScript, HTML, CSS, Thymeleaf
+* **Backend:** Java, Spring Boot, Spring Security, MyBatis, API
 
 <br>
 
